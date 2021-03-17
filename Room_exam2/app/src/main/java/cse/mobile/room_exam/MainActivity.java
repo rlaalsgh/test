@@ -12,7 +12,7 @@ import android.widget.EditText;
 import android.widget.TextView;
 
 import java.util.List;
-//안ㄴ영안녕나여녕너모아ㅓㅁ노ㅠ오ㅓㅏㅁ뉴어ㅗㅁ뉴오ㅓㅁ뉴오ㅓㅁ뉴오ㅓㄴ뮤ㅗㅓ윰노ㅓ유
+//안ㄴ영안녕나여녕너모아ㅓㅁ노ㅠ오ㅓㅏㅁ뉴어ㅗㅁ뉴오ㅓㅁ뉴오ㅓㅁ뉴오ㅓㄴ뮤ㅗㅓ윰노ㅓ유  tlqkf
 public class MainActivity extends AppCompatActivity {
     private EditText mTodoEditText;
     private TextView mResultTextView;
